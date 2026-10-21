@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cotune-dev-a6bff-authRole",
+      "UnauthRoleArn": "arn:aws:iam::600627340070:role/amplify-cotune-dev-a6bff-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::600627340070:role/amplify-cotune-dev-a6bff-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-cotune-dev-a6bff-deployment",
+      "UnauthRoleName": "amplify-cotune-dev-a6bff-unauthRole",
+      "StackName": "amplify-cotune-dev-a6bff",
+      "StackId": "arn:aws:cloudformation:eu-west-3:600627340070:stack/amplify-cotune-dev-a6bff/119de060-be38-11ef-8732-0e1e63132d8d",
+      "AmplifyAppId": "d1v7h8ebvwkp9s"
+    },
+    "categories": {
+      "auth": {
+        "cotunedd25ec42": {}
+      }
+    }
+  }
+}
